@@ -27,6 +27,21 @@ hr {
     background-color: #fce38a;
 }
 
+/* scrollbar */
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background:#0062ff;
+    border-radius: 50px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: rgb(255, 255, 2);
+    border-radius: 50px;
+}
 
 /* Container */
 .container {
