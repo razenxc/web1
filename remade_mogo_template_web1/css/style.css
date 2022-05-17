@@ -34,12 +34,12 @@ hr {
 }
 
 ::-webkit-scrollbar-track {
-    background:#0062ff;
+    background: #444444;
     border-radius: 50px;
 }
 
 ::-webkit-scrollbar-thumb {
-    background: rgb(255, 255, 2);
+    background: rgb(136, 136, 136);
     border-radius: 50px;
 }
 
