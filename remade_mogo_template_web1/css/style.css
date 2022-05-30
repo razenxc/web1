@@ -743,6 +743,7 @@ display: block;
 
 /* what people say/happy clients block */
 .clients {
+    width: 100%;
     display: flex;
     flex-wrap: wrap;
     margin-top: 70px;
