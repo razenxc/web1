@@ -193,6 +193,7 @@ hr {
 /* down intro slider */
 
 .slider {
+    padding-bottom: 30px;
     width: 100%;
     position: absolute;
     bottom: 0;
@@ -498,8 +499,8 @@ hr {
 /* accordion block */
 
 .accordion__item {
-    border: 1px solid #fff;
-    margin-bottom: 10px;
+    border: 1px solid #B6452C;
+    margin-bottom: 15px;
 }
 
 .accordion__item.active
