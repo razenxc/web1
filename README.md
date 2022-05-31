@@ -1,4 +1,4 @@
-# remade_mogo_template_web1
+# web1
 My first site, made according to the video course.
 https://site-web1.pages.dev/
 or
