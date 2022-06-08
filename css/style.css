@@ -374,6 +374,7 @@ hr {
 }
 
 .section--clients {
+    max-width: 100%;
     background: url("../img/images/what-people-say/wall.jpg")
     center no-repeat;
     -webkit-background-size: cover;
@@ -1616,7 +1617,7 @@ display: block;
 
      /* our works */
      .works__col {
-         width: 100%;
+         width: 50%;
      } /* make full screen img */
 
     /* what people say */
