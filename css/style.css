@@ -865,6 +865,7 @@ display: block;
 .works__img {
     display: block;
     max-width: 100%;
+    width: 100%;
     height: auto;
     transition: opacity 0.2s linear;
 }
