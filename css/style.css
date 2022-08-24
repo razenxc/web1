@@ -374,7 +374,8 @@ hr {
 }
 
 .section--clients {
-    max-width: 100%;
+    margin: 0 auto;
+    max-width: 1440px;
     background: url("../img/images/what-people-say/wall.jpg")
     center no-repeat;
     -webkit-background-size: cover;
